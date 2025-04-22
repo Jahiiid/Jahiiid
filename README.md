@@ -1,13 +1,21 @@
 ## Hi there 👋
 
 🔭 I’m currently working on Android Development with Kotlin and Flutter & Artificial Intelligence.
+
 🌱 I’m currently learning advanced machine learning, NLP with LSTM models, and Android development using Kotlin.
+
 👯 I’m looking to collaborate on AI/NLP projects, open-source Android apps, and tech for social good.
+
 🤔 I’m looking for help with cross-platform app optimization and real-time social media data collection via APIs.
+
 💬 Ask me about AI, machine learning, Android development, FastText embeddings, and custom dataset training.
+
 📫 How to reach me: [jahhhiiid@gmail.com] or find me on [https://www.instagram.com/jahii.id/]
+
 😄 Pronouns: He/Him
+
 ⚡ Fun fact: I balance coding, teaching, and university life — all powered by caffeine and curiosity! ☕🚀
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JahidNshakil) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jahii.id) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@JahidShakil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jahhhiiid@gmail.com) 
