@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Jahid%20Shakil&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20%E2%80%A2%20AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=58&descAlign=50&descSize=17&descColor=c9b8ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a3a2a,100:0d5c3a&height=240&section=header&text=Jahid%20Shakil&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20%E2%80%A2%20AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=58&descAlign=50&descSize=17&descColor=a7f3d0" />
 
 </div>
 
@@ -23,8 +23,8 @@
 ```kotlin
 object JahidShakil {
 
-    val name       = "Jahid Shakil"
-    val location   = "Savar, Dhaka — Bangladesh 🇧🇩"
+    val name       = "Jahid Hasan (Shakil)"
+    val location   = "Bhakurta,Savar, Dhaka — Bangladesh 🇧🇩"
     val degree     = "BSc in CSE · National University"
     val pronouns   = "He / Him"
 
@@ -136,7 +136,7 @@ object JahidShakil {
 <!-- ✅ github-stats.vercel.app — highly reliable alternative -->
 <img src="https://github-readme-stats-bay-pi-10.vercel.app/api?username=Jahiiid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=12&cache_seconds=1800" width="48%" />
 &nbsp;
-<img src="https://github-readme-stats-bay-pi-10.vercel.app/api/top-langs/?username=Jahiiid&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=12&cache_seconds=1800" width="38%" />
+<img src="https://github-readme-stats-bay-pi-10.vercel.app/api/top-langs/?username=Jahiiid&theme=radical&hide_border=true&layout=compact&langs_count=8&border_radius=12&cache_seconds=1800" width="38%" />
 
 </div>
 
@@ -145,16 +145,7 @@ object JahidShakil {
 <div align="center">
 
 <!-- ✅ streak-stats.demolab.com — most stable streak service -->
-<img src="https://streak-stats.demolab.com/?user=Jahiiid&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&border_radius=12" width="56%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- ✅ github-profile-trophy — lightweight & reliable -->
-<img src="https://github-profile-trophy.vercel.app/?username=Jahiiid&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=6" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=Jahiiid&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b949e&border_radius=12" width="56%" />
 
 </div>
 
@@ -218,6 +209,6 @@ object JahidShakil {
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d5c3a,50:1a3a2a,100:0a0a0a&height=130&section=footer" />
 
 </div>
