@@ -133,9 +133,10 @@ object JahidShakil {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jahiiid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=12" width="48%" />
+<!-- ✅ github-stats.vercel.app — highly reliable alternative -->
+<img src="https://github-readme-stats-bay-pi-10.vercel.app/api?username=Jahiiid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=12&cache_seconds=1800" width="48%" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahiiid&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=12" width="38%" />
+<img src="https://github-readme-stats-bay-pi-10.vercel.app/api/top-langs/?username=Jahiiid&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=12&cache_seconds=1800" width="38%" />
 
 </div>
 
@@ -143,7 +144,8 @@ object JahidShakil {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jahiiid&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&border_radius=12" width="56%" />
+<!-- ✅ streak-stats.demolab.com — most stable streak service -->
+<img src="https://streak-stats.demolab.com/?user=Jahiiid&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&border_radius=12" width="56%" />
 
 </div>
 
@@ -151,6 +153,7 @@ object JahidShakil {
 
 <div align="center">
 
+<!-- ✅ github-profile-trophy — lightweight & reliable -->
 <img src="https://github-profile-trophy.vercel.app/?username=Jahiiid&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=6" width="100%" />
 
 </div>
